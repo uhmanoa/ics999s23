@@ -4,10 +4,10 @@
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: ICS 999 Spring 23
 baseurl: /ics999s23
-morea_theme: spacelab
+morea_theme: cerulean
 timezone: Pacific/Honolulu
 morea_navbar_items:
-  - Prerequisites
+  # - Prerequisites
   - Modules
   - Outcomes
   - Readings
